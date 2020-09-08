@@ -4,7 +4,7 @@ A tabela possui valores editáveis nas colunas de "capacidade e "atendimento rea
 obs.: todos os valores da tabela sao ficticios e de entrada manual.
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+.
 
 ## Available Scripts
 
